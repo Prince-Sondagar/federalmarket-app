@@ -1,0 +1,181 @@
+{
+  "signup": {
+    "heading": "Enter your mobile number",
+    "heading_1": "We will send you a confirmation code",
+    "heading_2": "Enter Mobile Number",
+    "button": "OTP Verification"
+  },
+  "OTP": {
+    "heading": "Enter Verification Code",
+    "heading_1": "We will send you a confirmation code on you registered mobile number",
+    "heading_2": "Wrong OTP entered",
+    "heading_3": "Resend OTP in",
+    "heading_4": "Resend",
+    "heading_5": "OTP Verification",
+    "button": "Verify OTP"
+  },
+  "done": {
+    "heading": "Successfully Done!",
+    "heading_1": "Your account has been settled",
+    "button": "Done"
+  },
+  "home": {
+    "heading": "Today’s Summary",
+    "heading_1": "Location not found",
+    "heading_2": "Enable",
+    "title": "Total Points",
+    "title_1": "Shops visited",
+    "title_2": "Image Data",
+    "title_3": "Shops",
+    "title_4": "Filter",
+    "title_5": "Open now",
+    "title_6": "Closed",
+    "title_7": "New Stores",
+    "title_8": "Old Stores",
+    "title_9": "search",
+    "button": "Start data collection",
+    "button_1": "Continue data collection",
+    "button_2": "Data collection done"
+  },
+  "store": {
+    "heading": "Fairsight Corner",
+    "heading_1": "View All",
+    "title": "Open now",
+    "button": "Shop",
+    "button_1": "SKU"
+  },
+  "search": {
+    "title": "Search"
+  },
+  "location": {
+    "heading": "Location not found",
+    "heading_1": "search again",
+    "title": "Enable"
+  },
+  "shop": {
+    "heading": "Shop info",
+    "heading_1": "Timings",
+    "heading_2": "Payment methods",
+    "heading_3": "Proximity to various things",
+    "heading_4": "Loyalty programs",
+    "title": "Shop"
+  },
+  "shopInfo": {
+    "heading": "Owner Name",
+    "heading_1": "Shop contact number",
+    "heading_2": "Store Front images",
+    "heading_3": "Other images",
+    "heading_4": "Shop info",
+    "heading_5": "Store Type",
+    "title": "Helper",
+    "title_1": "Cashier",
+    "button": "Done"
+  },
+  "timing": {
+    "heading": "Timings",
+    "heading_1": "Edit",
+    "heading_2": "Holiday",
+    "button": "Done"
+  },
+  "payment": {
+    "heading": "Payment methods",
+    "button": "Done"
+  },
+  "proximity": {
+    "heading": "Proximity to various things",
+    "title": "Add",
+    "button": "Done"
+  },
+  "loyalty": {
+    "heading": "Loyalty Programs",
+    "button": "Done"
+  },
+  "sku": {
+    "heading": "Search"
+  },
+  "bodyBath": {
+    "heading": "Body & bath",
+    "heading_1": "Collect data and earn",
+    "heading_2": "25 reward points",
+    "heading_3": "Add Images",
+    "heading_4": "Choose brands",
+    "heading_5": "Choose SKU",
+    "title": "Summary",
+    "title_1": "Edit",
+    "button": "Done"
+  },
+  "earnReward": {
+    "heading": "Congratulation",
+    "title": "you have earned",
+    "title_1": "rewards",
+    "title_2": "points",
+    "button": "Continue data collection"
+  },
+  "history": {
+    "heading": "Reward History",
+    "heading_1": "Current points",
+    "heading_2": "1204 Points",
+    "title": "Filter",
+    "title_1": "Today",
+    "title_2": "Yesterday",
+    "title_3": "Last week",
+    "title_4": "Week",
+    "title_5": "Month",
+    "title_6": "All",
+    "title_7": "Earn",
+    "title_8": "Redeem"
+  },
+  "leaderboard": {
+    "heading": "Leaderboard",
+    "heading_1": "Weekly streaks",
+    "heading_2": "Total points collected",
+    "heading_3": "2000 points",
+    "heading_4": "Current points",
+    "heading_5": "1204 Points",
+    "heading_6": "Top 3 Performers",
+    "heading_7": "Exciting Prizes",
+    "heading_8": "View reward history",
+    "title_1": "and win this",
+    "title_2": "collect 1000",
+    "title_3": "collect 1200",
+    "button": "Redeem prize"
+  },
+  "success": {
+    "heading": "Congratulation",
+    "heading_1": "You won this redmi 5 smartwatch",
+    "heading_2": "You will received your prize with in 2 day at you home address",
+    "button": "Done"
+  },
+  "profile": {
+    "heading": "Profile",
+    "heading_1": "Personal Info",
+    "heading_2": "Edit",
+    "button": " Logout"
+  },
+  "camera": {
+    "heading": "Camera permission is required.",
+    "heading_1": "No available camera device.",
+    "button": "Done"
+  },
+  "address": {
+    "title": "Address",
+    "title_1": "House No./Floor",
+    "title_2": "Street/Area",
+    "title_3": "Nearby Landmark (optional)",
+    "title_4": "State",
+    "title_5": "Pincode",
+    "button": "Save"
+  },
+  "editTime": {
+    "title": "Edit time",
+    "title_1": "Days",
+    "title_2": "Time",
+    "title_3": "Holiday",
+    "button": "Save"
+  },
+  "menu": {
+    "title": "Home",
+    "title_1": "Leaderboard",
+    "title_2": "Profile"
+  }
+}
